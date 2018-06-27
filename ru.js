@@ -29,6 +29,9 @@
     "Category13": "Игры",
     "Category14": "Развлечения",
     "Category15": "DIY и Быт",
+    "Category100": "Видео для взрослых",
+    "SensitiveContent": "Эти носители могут содержать конфиденциальный контент",
+    "View": "вид",
     "Loading": "Cuckoo Подождите, идет загрузка……",
 
     "__nav__": "",
@@ -54,6 +57,9 @@
     "SetupFailed": "Ошибка",
 
     "__player__": "",
+    "VideoCancel": "отменен",
+    "VideoReplay": "переигровка",
+
     "SuccessfulCollection": "Успешно Добавленно",
     "AlreadyCollection": "Лучшее",
     "FailedCollection": "Не удалось добавить",

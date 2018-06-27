@@ -29,6 +29,9 @@
     "Category13": "游戏",
     "Category14": "娱乐",
     "Category15": "DIY 和生活百科",
+    "Category100": "成人视频",
+    "SensitiveContent": "此媒体可能含有敏感内容",
+    "View": "查看",
     "Loading": "Cuckoo正在初始化，请耐心等待……",
 
     "__nav__": "",
@@ -54,6 +57,9 @@
     "SetupFailed": "设置失败",
 
     "__player__": "",
+    "VideoCancel": "取消",
+    "VideoReplay": "重播",
+
     "SuccessfulCollection": "收藏成功",
     "AlreadyCollection": "已经收藏",
     "FailedCollection": "收藏失败",

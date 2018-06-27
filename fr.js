@@ -29,6 +29,9 @@
     "Category13": "Jeux video",
     "Category14": "Divertissement",
     "Category15": "DIY & vie",
+    "Category100": "Vidéos pour adultes",
+    "SensitiveContent": "Ce support peut contenir du contenu sensible",
+    "View": "Voir",
     "Loading": "Cuckoo est en train de charger",
 
     "__nav__": "",
@@ -54,6 +57,9 @@
     "SetupFailed": "Échec",
 
     "__player__": "",
+    "VideoCancel": "Annulation",
+    "VideoReplay": "Rejouer",
+
     "SuccessfulCollection": "Collection avec succès",
     "AlreadyCollection": "Favoris",
     "FailedCollection": "Collection en échec",

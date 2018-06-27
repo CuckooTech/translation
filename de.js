@@ -29,6 +29,9 @@
     "Category13": "Spiele",
     "Category14": "Unterhaltung",
     "Category15": "Selber machen und Leben",
+    "Category100": "Erwachsene Videos",
+    "SensitiveContent": "Dieses Medium enthält möglicherweise vertrauliche Inhalte",
+    "View": "Ansicht",
     "Loading": "Cuckoo Bitte warten……",
 
     "__nav__": "",
@@ -54,6 +57,9 @@
     "SetupFailed": "Einstellung nicht erfolgreich",
 
     "__player__": "",
+    "VideoCancel": "Stornierung",
+    "VideoReplay": "Wiederholen",
+
     "SuccessfulCollection": "Favoritensammlung abgeschlossen",
     "AlreadyCollection": "Favoriten",
     "FailedCollection": "Favoritensammlung nicht erfolgreich",

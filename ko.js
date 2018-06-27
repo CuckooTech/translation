@@ -29,6 +29,9 @@
     "Category13": "게임",
     "Category14": "연예",
     "Category15": "DIY & 생활",
+    "Category100": "성인용 비디오",
+    "SensitiveContent": "이 미디어에는 중요한 콘텐츠가 포함될 수 있습니다.",
+    "View": "보기",
     "Loading": "Cuckoo 로딩 중, 잠시만 기다려 주세요……",
 
     "__nav__": "",
@@ -54,6 +57,9 @@
     "SetupFailed": "설정 실패",
 
     "__player__": "",
+    "VideoCancel": "취소",
+    "VideoReplay": "재연",
+
     "SuccessfulCollection": "성공적으로 수집",
     "AlreadyCollection": "즐겨찾기",
     "FailedCollection": "수집 실패",

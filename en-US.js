@@ -29,6 +29,9 @@
     "Category13": "Gaming",
     "Category14": "Entertainment",
     "Category15": "DIY & Life",
+    "Category100": "Adult videos",
+    "SensitiveContent": "This media may contain sensitive content",
+    "View": "View",
     "Loading": "Cuckoo Loading, please wait for momentload……",
 
     "__nav__": "",
@@ -54,6 +57,9 @@
     "SetupFailed": "Setting failed",
 
     "__player__": "",
+    "VideoCancel": "Cancel",
+    "VideoReplay": "Replay",
+
     "SuccessfulCollection": "Collecting successfully",
     "AlreadyCollection": "Favorite",
     "FailedCollection": "Collecting failed",
