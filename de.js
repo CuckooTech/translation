@@ -85,6 +85,11 @@
     "VideoReplay": "Abspielen",
     "VideoPassword": "Video-Passwort",
     "VideoDecrypt": "Entschlüsseln",
+    "SetSubtitle": "Untertitel einstellen",
+    "CurrentSubtitle": "Aktueller Untertitel",
+    "SubtitleDelay": "Untertitelverzögerung",
+    "SubtitleSize": "Untertitelgröße",
+    "SubtitlePosition": "Untertitelposition",
 
     "VideoCannotPlay": "Dieses Video kann nicht abgespielt werden",
     "SuccessfulCollection": "Favoritensammlung abgeschlossen",

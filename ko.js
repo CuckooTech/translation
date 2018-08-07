@@ -85,6 +85,11 @@
     "VideoReplay": "재연",
     "VideoPassword": "비디오 암호",
     "VideoDecrypt": "해독",
+    "SetSubtitle": "자막 설정",
+    "CurrentSubtitle": "현재 부제",
+    "SubtitleDelay": "자막 지연",
+    "SubtitleSize": "자막 크기",
+    "SubtitlePosition": "자막 위치",
 
     "VideoCannotPlay": "이 비디오는 재생할 수 없습니다",
     "SuccessfulCollection": "성공적으로 수집",

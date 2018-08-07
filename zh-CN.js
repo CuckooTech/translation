@@ -85,6 +85,11 @@
     "VideoReplay": "重播",
     "VideoPassword": "视频密码",
     "VideoDecrypt": "解密",
+    "SetSubtitle": "设置字幕",
+    "CurrentSubtitle": "当前字幕",
+    "SubtitleDelay": "字幕延迟",
+    "SubtitleSize": "字幕大小",
+    "SubtitlePosition": "字幕位置",
 
     "VideoCannotPlay": "视频无法播放",
     "SuccessfulCollection": "收藏成功",

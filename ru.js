@@ -85,6 +85,11 @@
     "VideoReplay": "переигрывать",
     "VideoPassword": "Видео-пароль",
     "VideoDecrypt": "Дешифрирование",
+    "SetSubtitle": "Установить субтитры",
+    "CurrentSubtitle": "Текущий субтитр",
+    "SubtitleDelay": "Задержка субтитров",
+    "SubtitleSize": "Размер субтитров",
+    "SubtitlePosition": "Позиция субтитров",
 
     "VideoCannotPlay": "это видео не может быть воспроизведено",
     "SuccessfulCollection": "Успешно Добавленно",

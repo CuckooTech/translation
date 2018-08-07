@@ -85,6 +85,11 @@
     "VideoReplay": "Replay",
     "VideoPassword": "Video password",
     "VideoDecrypt": "Decryption",
+    "SetSubtitle": "Set subtitle",
+    "CurrentSubtitle": "Current subtitle",
+    "SubtitleDelay": "Subtitle delay",
+    "SubtitleSize": "Subtitle size",
+    "SubtitlePosition": "Subtitle position",
 
     "VideoCannotPlay": "This video can not be played",
     "SuccessfulCollection": "Collecting successfully",

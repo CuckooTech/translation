@@ -85,6 +85,11 @@
     "VideoReplay": "Rejouer",
     "VideoPassword": "Mot de passe vidéo",
     "VideoDecrypt": "Décrypter",
+    "SetSubtitle": "Définir les sous-titres",
+    "CurrentSubtitle": "Sous-titre actuel",
+    "SubtitleDelay": "Délai de sous-titre",
+    "SubtitleSize": "Taille des sous-titres",
+    "SubtitlePosition": "Position des sous-titres",
 
     "VideoCannotPlay": "Cette vidéo ne peut être joué",
     "SuccessfulCollection": "Collection avec succès",
